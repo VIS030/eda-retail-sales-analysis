@@ -83,6 +83,6 @@ When you run the script, charts are saved automatically in `eda_outputs/`:
 - seaborn
 - jupyter
 
-## Author.
+## Author
 
 EDA project prepared as a professional retail analytics portfolio case study.
